@@ -1,0 +1,6 @@
+torch>=2.2.0
+torchvision>=0.17.0
+flwr>=1.6.0
+opacus>=1.4.0
+numpy>=1.26.0
+matplotlib>=3.8.0
